@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR6i0287/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0287/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀察諸法行經
+  identifiers:
+    krp: KR6i0287
+    cbeta: T15n0649
+    cbeta_old_id: T15n0649
+    authorityid: CA0001191
+    json_key: T0649
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0649.xml
+    old_id: T15n0649
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0287_000-T.yaml, hash: 'sha256:302534d43871292a27ae2038fc513f8d3fdff13f6bbf0429865cad68024fdfde'}
+  - {seq: 1, filename: KR6i0287_001-T.yaml, hash: 'sha256:c64c4e4fc151bdaf496f4541440b73963aac8cae6ef17db62aec4d0306de0f32'}
+  - {seq: 2, filename: KR6i0287_002-T.yaml, hash: 'sha256:88c5858d46190474f9705767f02f55feef5466ba289eebbe2a99102acb479a1b'}
+  - {seq: 3, filename: KR6i0287_003-T.yaml, hash: 'sha256:417b76ef8cbd21b177571f0c73729633370e0ad9629ef922628c68cac22fc41a'}
+  - {seq: 4, filename: KR6i0287_004-T.yaml, hash: 'sha256:b75850fb5e466cd5703d967499cfd34860e82f030203ed66fea08aa48b60af60'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0287_000-T.markers.yaml, hash: 'sha256:95ed613884f0ee9cde493de79d239954a8b85a07a9ee39c6b1d118d9b68faf37'}
+  - {seq: 1, role: markers, filename: assets/KR6i0287_001-T.markers.yaml, hash: 'sha256:9cd28abe2edf03634c3c5861ecf4df343469995de1134acacfc17f8fd30302b2'}
+  - {seq: 2, role: markers, filename: assets/KR6i0287_002-T.markers.yaml, hash: 'sha256:b3010672608811fa15326b16f4e07080bd4292519a953cc39b1f3f78a3772ff1'}
+  - {seq: 3, role: markers, filename: assets/KR6i0287_003-T.markers.yaml, hash: 'sha256:11b74336c5027ec078b42baf6c6113eaf247ae0311da73322f23893a42829daa'}
+  - {seq: 4, role: markers, filename: assets/KR6i0287_004-T.markers.yaml, hash: 'sha256:c4f7e9fa8ed07ca04333de09061a1d52c1007fa5ed6738c69bede35080185622'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0287_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5633
+  label: 觀察諸法行經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0287_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 無邊善方便行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0287_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5754
+  label: 觀察諸法行經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0287_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 2 先世勤相應品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0287_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7345
+  label: 觀察諸法行經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0287_T_003-mulu-1
+    span:
+    - body
+    - 4308
+    - 4308
+  label: 3 授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0287_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8783
+  label: 觀察諸法行經卷第四
+  type: juan
+  level: 1
+hash: sha256:d69e389ca9f004ac429d233f1e0e16d31fa4112ce33b14d589a2750607f0f6ee
